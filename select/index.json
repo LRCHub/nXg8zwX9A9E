@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "星の鼓動",
+  "base_artist": "こはならむ",
+  "createdAt": "2025-12-04T07:24:42.950729Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星の鼓動",
+      "artist": "こはならむ",
+      "has_synced": true,
+      "path": "select/01_星の鼓動_こはならむ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星の鼓動",
+      "artist": "こはならむ",
+      "has_synced": false,
+      "path": "select/pl_01_星の鼓動_こはならむ.txt"
+    }
+  ]
+}
